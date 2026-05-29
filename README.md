@@ -1,10 +1,14 @@
 # Carlos Alberto O S Filho
 
-**`Desenvolvedor FullStack`**
+**Desenvolvedor FullStack**
 
 Olá 👋!
 
-Meu nome é Carlos Alberto, sou Desenvolvedor de Software com formação em Engenharia e em Análise e Desenvolvimento de Sistemas, especializado no desenvolvimento de APIs REST, integração de sistemas e construção de aplicações escaláveis. Experiência com Java, Spring Boot, Angular e TypeScript, aplicando boas práticas de engenharia de software, arquitetura em camadas, versionamento de código e metodologias ágeis. Certificado pela Microsoft e em constante evolução no desenvolvimento de soluções eficientes e de qualidade.
+Meu nome é Carlos Alberto, sou Desenvolvedor de Software com formação em Engenharia e Análise e Desenvolvimento de Sistemas, com foco na criação de soluções back-end escaláveis, eficientes e bem estruturadas.
+
+Tenho experiência no desenvolvimento de APIs REST, integração de sistemas e aplicações web utilizando Java, Spring Boot, Angular e TypeScript. Busco aplicar boas práticas de Engenharia de Software, como arquitetura em camadas, código limpo, versionamento, testes e metodologias ágeis para entregar soluções de qualidade.
+
+Sou certificado pela Microsoft e estou sempre em constante evolução, aprimorando minhas habilidades técnicas e acompanhando novas tecnologias do mercado.
 
 <p>
     </a>
