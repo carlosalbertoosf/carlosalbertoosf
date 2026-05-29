@@ -10,6 +10,14 @@ Tenho experiência no desenvolvimento de APIs REST, integração de sistemas e a
 
 Sou certificado pela Microsoft e estou sempre em constante evolução, aprimorando minhas habilidades técnicas e acompanhando novas tecnologias do mercado.
 
+Hello 👋!
+
+My name is Carlos Alberto, and I am a Software Developer with a background in Engineering and Systems Analysis and Development, focused on building scalable, efficient, and well-structured back-end solutions.
+
+I have experience developing REST APIs, integrating systems, and building web applications using Java, Spring Boot, Angular, and TypeScript. I strive to apply Software Engineering best practices, such as layered architecture, clean code, version control, testing, and agile methodologies to deliver high-quality solutions.
+
+I am Microsoft Certified and continuously improving my technical skills while keeping up with new technologies and industry trends.
+
 <p>
     </a>
     <a href="https://www.linkedin.com/in/carlosalbertoosf/">
