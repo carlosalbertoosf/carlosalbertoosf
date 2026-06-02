@@ -2,6 +2,7 @@
 
 **Desenvolvedor FullStack**
 
+🇧🇷
 Olá 👋!
 
 Meu nome é Carlos Alberto, sou Desenvolvedor de Software com formação em Engenharia e Análise e Desenvolvimento de Sistemas, com foco na criação de soluções back-end escaláveis, eficientes e bem estruturadas.
@@ -10,7 +11,8 @@ Tenho experiência no desenvolvimento de APIs REST, integração de sistemas e a
 
 Sou certificado pela Microsoft e estou sempre em constante evolução, aprimorando minhas habilidades técnicas e acompanhando novas tecnologias do mercado.
 
-Hello 👋!
+🇺🇸
+Hi 👋!
 
 My name is Carlos Alberto, and I am a Software Developer with a background in Engineering and Systems Analysis and Development, focused on building scalable, efficient, and well-structured back-end solutions.
 
