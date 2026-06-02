@@ -1,8 +1,8 @@
 # Carlos Alberto Santos Filho
 
-**Desenvolvedor FullStack**
+**🇧🇷 Desenvolvedor FullStack**
 
-🇧🇷
+
 Olá 👋!
 
 Meu nome é Carlos Alberto, sou Desenvolvedor de Software com formação em Engenharia e Análise e Desenvolvimento de Sistemas, com foco na criação de soluções back-end escaláveis, eficientes e bem estruturadas.
@@ -11,7 +11,9 @@ Tenho experiência no desenvolvimento de APIs REST, integração de sistemas e a
 
 Sou certificado pela Microsoft e estou sempre em constante evolução, aprimorando minhas habilidades técnicas e acompanhando novas tecnologias do mercado.
 
-🇺🇸
+**🇺🇸 FullStack Developer**
+
+
 Hi 👋!
 
 My name is Carlos Alberto, and I am a Software Developer with a background in Engineering and Systems Analysis and Development, focused on building scalable, efficient, and well-structured back-end solutions.
@@ -117,7 +119,7 @@ I am Microsoft Certified and continuously improving my technical skills while ke
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -125,14 +127,14 @@ I am Microsoft Certified and continuously improving my technical skills while ke
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=carlosalbertoosf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosalbertoosf&theme=tokyonight" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalbertoosf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosalbertoosf&theme=tokyonight" 
   />
 
 </p>
