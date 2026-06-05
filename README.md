@@ -42,7 +42,7 @@ I am Microsoft Certified and continuously improving my technical skills while ke
 
 ---
 
-### 🤖 Tech Stack
+### ⚒️ Tech Stack
 
 <img 
     align="left" 
